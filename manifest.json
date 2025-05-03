@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"ProstaStream™ (Official) Get 50% Off + Free Shipping",
+  "short_name":"ProstaStream™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"ProstaStream is a dietary supplement made with a research-based formula of all-natural ingredients in a proprietary blend and several highly nutritious ingredients to promote your general health",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
